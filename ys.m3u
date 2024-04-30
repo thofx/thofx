@@ -41,31 +41,31 @@ http://192.168.31.69:886/ysiptv/2022575403.m3u8
 http://192.168.31.69:886/ysiptv/2022575103.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="#央视",CCTV-17 农业农村
 http://192.168.31.69:886/ysiptv/2022575303.m3u8
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="#央视数字",CCTV兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="#央视数字",CCTV兵器科技
 http://192.168.31.69:886/ysiptv/2012513403.m3u8
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="#央视数字",CCTV第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="#央视数字",CCTV第一剧场
 http://192.168.31.69:886/ysiptv/2012514403.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="#央视数字",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="#央视数字",CCTV怀旧剧场
 http://192.168.31.69:886/ysiptv/2012511203.m3u8
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="#央视数字",CCTV风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="#央视数字",CCTV风云剧场
 http://192.168.31.69:886/ysiptv/2012513603.m3u8
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="#央视数字",CCTV风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="#央视数字",CCTV风云音乐
 http://192.168.31.69:886/ysiptv/2012514103.m3u8
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="#央视数字",CCTV风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="#央视数字",CCTV风云足球
 http://192.168.31.69:886/ysiptv/2012514203.m3u8
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="#央视数字",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="#央视数字",CCTV电视指南
 http://192.168.31.69:886/ysiptv/2012514003.m3u8
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="#央视数字",CCTV女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="#央视数字",CCTV女性时尚
 http://192.168.31.69:886/ysiptv/2012513903.m3u8
-#EXTINF:-1 tvg-name="CCTV央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="#央视数字",CCTV央视文化精品
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="#央视数字",CCTV央视文化精品
 http://192.168.31.69:886/ysiptv/2012513803.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="#央视数字",CCTV世界地理
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="#央视数字",CCTV世界地理
 http://192.168.31.69:886/ysiptv/2012513303.m3u8
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="#央视数字",CCTV高尔夫网球
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="#央视数字",CCTV高尔夫网球
 http://192.168.31.69:886/ysiptv/2012512503.m3u8
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="#央视数字",CCTV央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="#央视数字",CCTV央视台球
 http://192.168.31.69:886/ysiptv/2012513703.m3u8
-#EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="#央视数字",CCTV卫生健康
+#EXTINF:-1 tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="#央视数字",CCTV卫生健康
 http://192.168.31.69:886/ysiptv/2012513503.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="#央视国际",CGTN
 http://192.168.31.69:886/ysiptv/2022575003.m3u8
