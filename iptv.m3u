@@ -127,7 +127,7 @@ http://192.168.31.69:886/iptv/cqcarSD
 http://192.168.31.69:886/iptv/mryyHD
 #EXTINF:-1 tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="重庆",重广融媒
 http://192.168.31.69:886/iptv/cqrongmei
-#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="地方频道",北京卡酷少儿
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方频道",北京卡酷少儿
 http://192.168.31.69:886/iptv/bjkakuSD
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
 http://192.168.31.69:886/iptv/jinyingSD
@@ -159,15 +159,15 @@ http://192.168.31.69:886/iptv/shuhua
 http://192.168.31.69:886/iptv/sheying
 #EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="数字频道",SiTV都市剧场
 http://192.168.31.69:886/iptv/dsjcHD
-#EXTINF:-1 tvg-name="SiTV魅力足球" tvg-logo="https://live.fanmingming.com/tv/SiTV魅力足球.png" group-title="数字频道",SiTV魅力足球
+#EXTINF:-1 tvg-name="SiTV魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",SiTV魅力足球
 http://192.168.31.69:886/iptv/mlzqHD
-#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png" group-title="数字频道",SiTV动漫秀场
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字频道",SiTV动漫秀场
 http://192.168.31.69:886/iptv/dmxcHD
-#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/SiTV游戏风云.png" group-title="数字频道",SiTV游戏风云
+#EXTINF:-1 tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字频道",SiTV游戏风云
 http://192.168.31.69:886/iptv/yxfyHD
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
 http://192.168.31.69:886/iptv/qsjlHD
-#EXTINF:-1 tvg-name="CHC电影" tvg-logo="https://live.fanmingming.com/tv/CHC电影.png" group-title="数字频道",CHC电影
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字频道",CHC高清电影
 http://192.168.31.69:886/iptv/chcgqdyHD
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
 http://192.168.31.69:886/iptv/chcdzdyHD
