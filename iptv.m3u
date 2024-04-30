@@ -157,7 +157,7 @@ http://192.168.31.69:886/iptv/bqkjHD
 http://192.168.31.69:886/iptv/shuhua
 #EXTINF:-1 tvg-name="摄影" tvg-logo="https://live.fanmingming.com/tv/摄影.png" group-title="数字频道",摄影
 http://192.168.31.69:886/iptv/sheying
-#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png" group-title="数字频道",SiTV都市剧场
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="数字频道",SiTV都市剧场
 http://192.168.31.69:886/iptv/dsjcHD
 #EXTINF:-1 tvg-name="SiTV魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",SiTV魅力足球
 http://192.168.31.69:886/iptv/mlzqHD
