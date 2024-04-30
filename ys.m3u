@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="#央视",CCTV-4K
+#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="#央视",CCTV-4K
 http://192.168.31.69:886/ysiptv/2022575203.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="#央视",CCTV-8K
+#EXTINF:-1 tvg-name="CCTV-8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="#央视",CCTV-8K
 http://192.168.31.69:886/ysiptv/2020603421.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="#央视",CCTV-1 综合
 http://192.168.31.69:886/ysiptv/2022576803.m3u8
