@@ -33,7 +33,7 @@ http://192.168.31.69:886/ysp/iptv/2022575603.m3u8
 http://192.168.31.69:886/ysp/iptv/2022575503.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://192.168.31.69:886/ysp/iptv/2022575403.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16 奥林匹克 4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://192.168.31.69:886/ysp/iptv/2022575103.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://192.168.31.69:886/ysp/iptv/2022575303.m3u8
