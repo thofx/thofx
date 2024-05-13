@@ -1,189 +1,189 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-http://192.168.31.69:886/iptv/cctv1HD
+http://192.168.31.69:886/cqgd/cctv1HD
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-http://192.168.31.69:886/iptv/cctv2HD
+http://192.168.31.69:886/cqgd/cctv2HD
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://192.168.31.69:886/iptv/cctv3HD
+http://192.168.31.69:886/cqgd/cctv3HD
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://192.168.31.69:886/iptv/cctv4HD
+http://192.168.31.69:886/cqgd/cctv4HD
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-http://192.168.31.69:886/iptv/cctv5HD
+http://192.168.31.69:886/cqgd/cctv5HD
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5+ 体育赛事
-http://192.168.31.69:886/iptv/cctv5SportHD
+http://192.168.31.69:886/cqgd/cctv5SportHD
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-http://192.168.31.69:886/iptv/cctv6HD
+http://192.168.31.69:886/cqgd/cctv6HD
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://192.168.31.69:886/iptv/cctv7HD
+http://192.168.31.69:886/cqgd/cctv7HD
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://192.168.31.69:886/iptv/cctv8HD
+http://192.168.31.69:886/cqgd/cctv8HD
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://192.168.31.69:886/iptv/cctv9HD
+http://192.168.31.69:886/cqgd/cctv9HD
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-http://192.168.31.69:886/iptv/cctv10HD
+http://192.168.31.69:886/cqgd/cctv10HD
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://192.168.31.69:886/iptv/cctv11HD
+http://192.168.31.69:886/cqgd/cctv11HD
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://192.168.31.69:886/iptv/cctv12HD
+http://192.168.31.69:886/cqgd/cctv12HD
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://192.168.31.69:886/iptv/CCTVNewsHD
+http://192.168.31.69:886/cqgd/CCTVNewsHD
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://192.168.31.69:886/iptv/cctvseHD
+http://192.168.31.69:886/cqgd/cctvseHD
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://192.168.31.69:886/iptv/cctv15HD
+http://192.168.31.69:886/cqgd/cctv15HD
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://192.168.31.69:886/iptv/cctv16HD
+http://192.168.31.69:886/cqgd/cctv16HD
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17  农业农村
-http://192.168.31.69:886/iptv/cctv17HD
+http://192.168.31.69:886/cqgd/cctv17HD
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16-4K
-http://192.168.31.69:886/iptv/CCTV16_4K
+http://192.168.31.69:886/cqgd/CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://192.168.31.69:886/iptv/CCTV4K
+http://192.168.31.69:886/cqgd/CCTV4K
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 http://192.168.31.69:886/ysiptv/2020603421.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
-http://192.168.31.69:886/iptv/dongnanHD
+http://192.168.31.69:886/cqgd/dongnanHD
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
-http://192.168.31.69:886/iptv/shanghaiHD
+http://192.168.31.69:886/cqgd/shanghaiHD
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="卫视",云南卫视
-http://192.168.31.69:886/iptv/yunnanSD
+http://192.168.31.69:886/cqgd/yunnanSD
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
-http://192.168.31.69:886/iptv/beijingHD
+http://192.168.31.69:886/cqgd/beijingHD
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="卫视",吉林卫视
-http://192.168.31.69:886/iptv/jilinHD
+http://192.168.31.69:886/cqgd/jilinHD
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-http://192.168.31.69:886/iptv/sichuanHD
+http://192.168.31.69:886/cqgd/sichuanHD
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-http://192.168.31.69:886/iptv/tianjinHD
+http://192.168.31.69:886/cqgd/tianjinHD
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="卫视",宁夏卫视
-http://192.168.31.69:886/iptv/ningxia
+http://192.168.31.69:886/cqgd/ningxia
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-http://192.168.31.69:886/iptv/anhuiSD
+http://192.168.31.69:886/cqgd/anhuiSD
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 http://192.168.31.69:886/ysiptv/2000294803.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="卫视",山西卫视
-http://192.168.31.69:886/iptv/shanxiSD
+http://192.168.31.69:886/cqgd/shanxiSD
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
-http://192.168.31.69:886/iptv/guangdongHD
+http://192.168.31.69:886/cqgd/guangdongHD
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
-http://192.168.31.69:886/iptv/guangxiHD
+http://192.168.31.69:886/cqgd/guangxiHD
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视",新疆卫视
-http://192.168.31.69:886/iptv/xinjiangSD
+http://192.168.31.69:886/cqgd/xinjiangSD
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视",江苏卫视
-http://192.168.31.69:886/iptv/jiangsuHD
+http://192.168.31.69:886/cqgd/jiangsuHD
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视",江西卫视
-http://192.168.31.69:886/iptv/jiangxiHD
+http://192.168.31.69:886/cqgd/jiangxiHD
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视",河北卫视
-http://192.168.31.69:886/iptv/hebeiSD
+http://192.168.31.69:886/cqgd/hebeiSD
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
-http://192.168.31.69:886/iptv/henanHD
+http://192.168.31.69:886/cqgd/henanHD
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视",浙江卫视
-http://192.168.31.69:886/iptv/zhejiangHD
+http://192.168.31.69:886/cqgd/zhejiangHD
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
-http://192.168.31.69:886/iptv/hainanSD
+http://192.168.31.69:886/cqgd/hainanSD
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="卫视",深圳卫视
-http://192.168.31.69:886/iptv/shenzhenHD
+http://192.168.31.69:886/cqgd/shenzhenHD
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="卫视",湖北卫视
-http://192.168.31.69:886/iptv/hubeiSD
+http://192.168.31.69:886/cqgd/hubeiSD
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
-http://192.168.31.69:886/iptv/hunanHD
+http://192.168.31.69:886/cqgd/hunanHD
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="卫视",西藏卫视
-http://192.168.31.69:886/iptv/xizangSD
+http://192.168.31.69:886/cqgd/xizangSD
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
-http://192.168.31.69:886/iptv/guizhouHD
+http://192.168.31.69:886/cqgd/guizhouHD
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://192.168.31.69:886/iptv/liaoningHD
+http://192.168.31.69:886/cqgd/liaoningHD
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视
-http://192.168.31.69:886/iptv/chongqingHD
+http://192.168.31.69:886/cqgd/chongqingHD
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="卫视",青海卫视
-http://192.168.31.69:886/iptv/qinghaiSD
+http://192.168.31.69:886/cqgd/qinghaiSD
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://192.168.31.69:886/iptv/heilongjiangHD
+http://192.168.31.69:886/cqgd/heilongjiangHD
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-http://192.168.31.69:886/iptv/sanshaSD
+http://192.168.31.69:886/cqgd/sanshaSD
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
-http://192.168.31.69:886/iptv/bingtuanSD
+http://192.168.31.69:886/cqgd/bingtuanSD
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="重庆",重庆新闻
-http://192.168.31.69:886/iptv/CQTVNewsHD
+http://192.168.31.69:886/cqgd/CQTVNewsHD
 #EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="重庆",重庆影视
-http://192.168.31.69:886/iptv/cqyingshiHD
+http://192.168.31.69:886/cqgd/cqyingshiHD
 #EXTINF:-1 tvg-id="重庆社会与法" tvg-name="重庆社会与法" tvg-logo="https://live.fanmingming.com/tv/重庆社会与法.png" group-title="重庆",重庆社会与法
-http://192.168.31.69:886/iptv/CQTVTrendyHD
+http://192.168.31.69:886/cqgd/CQTVTrendyHD
 #EXTINF:-1 tvg-id="重庆时尚生活" tvg-name="重庆时尚生活" tvg-logo="https://live.fanmingming.com/tv/重庆时尚生活.png" group-title="重庆",重庆时尚生活
-http://192.168.31.69:886/iptv/cqssgwHD
+http://192.168.31.69:886/cqgd/cqssgwHD
 #EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://live.fanmingming.com/tv/重庆文体娱乐.png" group-title="重庆",重庆文体娱乐
-http://192.168.31.69:886/iptv/cqwtylHD
+http://192.168.31.69:886/cqgd/cqwtylHD
 #EXTINF:-1 tvg-id="重庆新农村" tvg-name="重庆新农村" tvg-logo="https://live.fanmingming.com/tv/重庆新农村.png" group-title="重庆",重庆新农村
-http://192.168.31.69:886/iptv/cqggncHD
+http://192.168.31.69:886/cqgd/cqggncHD
 #EXTINF:-1 tvg-id="重庆少儿" tvg-name="重庆少儿" tvg-logo="https://live.fanmingming.com/tv/重庆少儿.png" group-title="重庆",重庆少儿
-http://192.168.31.69:886/iptv/cqseHD
+http://192.168.31.69:886/cqgd/cqseHD
 #EXTINF:-1 tvg-id="重庆科教" tvg-name="重庆科教" tvg-logo="https://live.fanmingming.com/tv/重庆科教.png" group-title="重庆",重庆科教
-http://192.168.31.69:886/iptv/CQTVkejiaoHD
+http://192.168.31.69:886/cqgd/CQTVkejiaoHD
 #EXTINF:-1 tvg-id="爱看导视" tvg-name="爱看导视" tvg-logo="https://live.fanmingming.com/tv/爱看导视.png" group-title="重庆",爱看导视
-http://192.168.31.69:886/iptv/aikanHD
+http://192.168.31.69:886/cqgd/aikanHD
 #EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩.png" group-title="重庆",重庆汽摩
-http://192.168.31.69:886/iptv/cqcarSD
+http://192.168.31.69:886/cqgd/cqcarSD
 #EXTINF:-1 tvg-id="重庆移动" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="重庆",重庆移动
-http://192.168.31.69:886/iptv/mryyHD
+http://192.168.31.69:886/cqgd/mryyHD
 #EXTINF:-1 tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="重庆",重广融媒
-http://192.168.31.69:886/iptv/cqrongmei
+http://192.168.31.69:886/cqgd/cqrongmei
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方频道",北京卡酷少儿
-http://192.168.31.69:886/iptv/bjkakuSD
+http://192.168.31.69:886/cqgd/bjkakuSD
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
-http://192.168.31.69:886/iptv/jinyingSD
+http://192.168.31.69:886/cqgd/jinyingSD
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="地方频道",中国天气
-http://192.168.31.69:886/iptv/tianqiSD
+http://192.168.31.69:886/cqgd/tianqiSD
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
-http://192.168.31.69:886/iptv/bjayjsSD
+http://192.168.31.69:886/cqgd/bjayjsSD
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="地方频道",山东教育
-http://192.168.31.69:886/iptv/sdjiaoyuSD
+http://192.168.31.69:886/cqgd/sdjiaoyuSD
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字频道",欢笑剧场
-http://192.168.31.69:886/iptv/hxjc_4K
+http://192.168.31.69:886/cqgd/hxjc_4K
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字频道",风云剧场
-http://192.168.31.69:886/iptv/shandongHD
+http://192.168.31.69:886/cqgd/shandongHD
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字频道",风云剧场
-http://192.168.31.69:886/iptv/fyjcHD
+http://192.168.31.69:886/cqgd/fyjcHD
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="数字频道",风云音乐
-http://192.168.31.69:886/iptv/fyyyHD
+http://192.168.31.69:886/cqgd/fyyyHD
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="数字频道",风云足球
-http://192.168.31.69:886/iptv/fyzqHD
+http://192.168.31.69:886/cqgd/fyzqHD
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="数字频道",怀旧剧场
-http://192.168.31.69:886/iptv/hjjcHD
+http://192.168.31.69:886/cqgd/hjjcHD
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="数字频道",第一剧场
-http://192.168.31.69:886/iptv/diyijuchangHD
+http://192.168.31.69:886/cqgd/diyijuchangHD
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="数字频道",兵器科技
-http://192.168.31.69:886/iptv/bqkjHD
+http://192.168.31.69:886/cqgd/bqkjHD
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://live.fanmingming.com/tv/书画.png" group-title="数字频道",书画
-http://192.168.31.69:886/iptv/shuhua
+http://192.168.31.69:886/cqgd/shuhua
 #EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://live.fanmingming.com/tv/摄影.png" group-title="数字频道",摄影
-http://192.168.31.69:886/iptv/sheying
+http://192.168.31.69:886/cqgd/sheying
 #EXTINF:-1 tvg-id="SiTV都市剧场" tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="数字频道",SiTV都市剧场
-http://192.168.31.69:886/iptv/dsjcHD
+http://192.168.31.69:886/cqgd/dsjcHD
 #EXTINF:-1 tvg-id="SiTV魅力足球" tvg-name="SiTV魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="数字频道",SiTV魅力足球
-http://192.168.31.69:886/iptv/mlzqHD
+http://192.168.31.69:886/cqgd/mlzqHD
 #EXTINF:-1 tvg-id="SiTV动漫秀场" tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="数字频道",SiTV动漫秀场
-http://192.168.31.69:886/iptv/dmxcHD
+http://192.168.31.69:886/cqgd/dmxcHD
 #EXTINF:-1 tvg-id="SiTV游戏风云" tvg-name="SiTV游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="数字频道",SiTV游戏风云
-http://192.168.31.69:886/iptv/yxfyHD
+http://192.168.31.69:886/cqgd/yxfyHD
 #EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="数字频道",求索纪录
-http://192.168.31.69:886/iptv/qsjlHD
+http://192.168.31.69:886/cqgd/qsjlHD
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字频道",CHC高清电影
-http://192.168.31.69:886/iptv/chcgqdyHD
+http://192.168.31.69:886/cqgd/chcgqdyHD
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
-http://192.168.31.69:886/iptv/chcdzdyHD
+http://192.168.31.69:886/cqgd/chcdzdyHD
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://192.168.31.69:886/iptv/chcjtyyHD
+http://192.168.31.69:886/cqgd/chcjtyyHD
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="购物",优购物
-http://192.168.31.69:886/iptv/yougouwu
+http://192.168.31.69:886/cqgd/yougouwu
 #EXTINF:-1 tvg-id="家家购物" tvg-name="家家购物" tvg-logo="https://live.fanmingming.com/tv/家家购物.png" group-title="购物",家家购物
-http://192.168.31.69:886/iptv/jjgw
+http://192.168.31.69:886/cqgd/jjgw
 #EXTINF:-1 tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="https://live.fanmingming.com/tv/风尚购物.png" group-title="购物",风尚购物
-http://192.168.31.69:886/iptv/fsgw
+http://192.168.31.69:886/cqgd/fsgw
 #EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="https://live.fanmingming.com/tv/聚鲨环球精选.png" group-title="购物",聚鲨环球精选
-http://192.168.31.69:886/iptv/jusha
+http://192.168.31.69:886/cqgd/jusha
 #EXTINF:-1 tvg-id="中视购物" tvg-name="中视购物" tvg-logo="https://live.fanmingming.com/tv/中视购物.png" group-title="购物",中视购物
-http://192.168.31.69:886/iptv/ysgw
+http://192.168.31.69:886/cqgd/ysgw
 #EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="购物",家有购物
-http://192.168.31.69:886/iptv/jygw
+http://192.168.31.69:886/cqgd/jygw
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="购物",央广购物
-http://192.168.31.69:886/iptv/yggw
+http://192.168.31.69:886/cqgd/yggw
