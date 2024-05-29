@@ -39,6 +39,12 @@ http://192.168.31.69:886/cqgd/cctv17HD
 http://192.168.31.69:886/cqgd/CCTV16_4K
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://192.168.31.69:886/cqgd/CCTV4K
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视",CCTV 央视台球
+http://192.168.31.69:886/cqgd/ystqHD
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视",CCTV 高尔夫网球
+http://192.168.31.69:886/cqgd/golfHD
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",CCTV 女性时尚
+http://192.168.31.69:886/cqgd/nvxing
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="卫视",东南卫视
 http://192.168.31.69:886/cqgd/dongnanHD
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
@@ -101,6 +107,8 @@ http://192.168.31.69:886/cqgd/heilongjiangHD
 http://192.168.31.69:886/cqgd/sanshaSD
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视
 http://192.168.31.69:886/cqgd/bingtuanSD
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://192.168.31.69:886/cqgd/neimengkuSD
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://live.fanmingming.com/tv/重庆新闻.png" group-title="重庆",重庆新闻
 http://192.168.31.69:886/cqgd/CQTVNewsHD
 #EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://live.fanmingming.com/tv/重庆影视.png" group-title="重庆",重庆影视
@@ -125,6 +133,10 @@ http://192.168.31.69:886/cqgd/cqcarSD
 http://192.168.31.69:886/cqgd/mryyHD
 #EXTINF:-1 tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="重庆",重广融媒
 http://192.168.31.69:886/cqgd/cqrongmei
+#EXTINF:-1 tvg-id="长寿综合" tvg-name="长寿综合" tvg-logo="https://live.fanmingming.com/tv/长寿综合.png" group-title="重庆",长寿综合
+http://192.168.31.69:886/cqgd/changshou
+#EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="https://live.fanmingming.com/tv/百姓健康.png" group-title="重庆",百姓健康
+http://192.168.31.69:886/cqgd/changshou
 #EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="地方频道",北京卡酷少儿
 http://192.168.31.69:886/cqgd/bjkakuSD
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="地方频道",金鹰卡通
